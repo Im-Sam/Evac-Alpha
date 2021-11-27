@@ -1,4 +1,4 @@
-Sam Magee - imported and modified map, very simple movement for player at the start, zombie targeting player, main menu, movement in direction camera facing.
+Sam Magee - imported and modified map, very simple movement for player at the start, zombie targeting player, main menu, movement in direction camera facing, webGL page.
 
 Liam Reynolds - made new, more advanced refined movement, gravity for player, mouse tracking with camera.
 
